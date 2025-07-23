@@ -3,16 +3,29 @@
 This repository contains beginner-friendly Java mini-projects focusing purely on core Java fundamentals — no OOP concepts involved. These projects are ideal for anyone looking to build strong logic and practice.
 
 💡 Projects Included
+
 🧮 Student Grade Calculator
 Input: Marks for 5 subjects
-Output: Total Marks, Percentage, Grade
-Concepts Used: Scanner, if-else, arithmetic operations
+
 
 💰 Simple Interest & EMI Calculator
 Input: Principal, Rate of Interest, Time
-Output: Simple Interest, EMI
-Concepts Used: methods, mathematical formulas, conditionals
 
+
+🔢 Number Guessing Game
+Input: User guesses a number
+
+
+🏧 Basic ATM Simulation
+Input: User menu choices (Check Balance, Deposit, Withdraw, Exit)
+
+
+🔠 Word Counter
+Input: A sentence
+
+
+
+Concepts Used: random number generation, Scanner, while loop, conditions
 🛠️ How to Run
 Open the project in your favorite Java IDE (e.g., IntelliJ IDEA, Eclipse), or use the terminal.
 
