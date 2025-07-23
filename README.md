@@ -2,7 +2,7 @@
 
 Welcome to the **Java Fundamentals Playground** — a curated collection of beginner-friendly mini projects designed to strengthen your core Java skills, one logic at a time.
 
-These projects are crafted **without any OOP concepts** to help you master the **real foundation of Java** — variables, conditions, loops, arrays, and I/O. Perfect for those just starting their journey in programming.
+These projects are crafted **without any OOP concepts** to help you master the **real foundation of Java** — variables, conditions, loops, arrays. Perfect for those just starting their journey in programming.
 
 ---
 
@@ -42,19 +42,6 @@ These projects are crafted **without any OOP concepts** to help you master the *
    javac Practice01.java
 4. Run the compiled class:
    java Practice01
-
-
-
-## 📁 Suggested Project Structure
-java-fundamentals-mini-projects/
-├── Practice01_StudentGradeCalculator.java
-├── Practice02_SimpleInterestCalculator.java
-├── Practice03_NumberGuessingGame.java
-├── Practice04_ATMSimulator.java
-├── Practice05_WordCounter.java
-├── Practice06_BasicCalculator.java
-├── Practice07_MiniQuizApp.java
-└── README.md
 
 
 ## 📎 Note
